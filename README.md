@@ -23,7 +23,7 @@ The program performs two main tasks sequentially:
 No specific configuration or API keys are required to run this application.
 
 1.  Clone this repository or download the source code.
-2.  Open the solution file `Labb4_KonsumeraAPI.sln` in Visual Studio.
+2.  Open the solution file `ConsumerAPI.sln` in Visual Studio.
 3.  Build the solution.
 4.  Run the application by pressing `F5` or clicking **Start**.
 
